@@ -1,0 +1,4 @@
+#ifndef HOTEL_ENGINE_SERVER_H
+#define HOTEL_ENGINE_SERVER_H
+
+#endif
